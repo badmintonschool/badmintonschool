@@ -3,8 +3,8 @@
 
 menu:
 - {name: 'Shop', url: ''}
-- {name: 'Coaching', url: 'pages/blog.html'}
-- {name: 'Blog', url: 'pages/about.html'}
+- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'Coaching', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
@@ -40,9 +40,9 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Tactical Play Online Seminar
 
-  You can find all sorts of sports related blogs,recommended videos and podcasts over here.
+  Contact xxxxxxxxxx for further details.
 
 contact: >
   # Contact
